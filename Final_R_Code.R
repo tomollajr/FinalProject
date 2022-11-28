@@ -39,5 +39,9 @@ cor(dataset$Temp,dataset$Aerosols) #-.39
 
 plot(dataset$Temp,dataset$N2O)
 # Highest correlation. As N2O increases, so does temp
+plot(dataset$Year,dataset$N2O)
+# A graphic of the increase of N2O over the years 
+# One pound of N2O warms the atmosphere about 300 times the amount that one pound of carbon dioxide does over a 100 year timescale. 
+# Its potency and relatively long life make N2O a dangerous contributor to climate change.
 
 
